@@ -5,7 +5,7 @@
  * Telegram: @cryschwys
  * Discord: fil(@Katatsumuri)
 ## About me
-Trying to fight depression by exploring new technologies
+ Trying to fight depression by exploring new technologies.
 ## Skills
  * Git, GitHub
  * VS Code
@@ -22,4 +22,4 @@ function multiply(a, b){
     - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
     - Ulearn.me Course «Fundamentals of C# programming» (in progress)
 ## English
-A2
+ A2
