@@ -1,1 +1,1 @@
-# rsschool-cv
+https://8maroknapodarok.github.io/rsschool-cv/
