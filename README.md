@@ -1,1 +1,1 @@
-https://8maroknapodarok.github.io/rsschool-cv/cv
+https://8maroknapodarok.github.io/rsschool-cv/
